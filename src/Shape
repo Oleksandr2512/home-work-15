@@ -1,0 +1,4 @@
+interface Shape {
+    double area();  // Метод для обчислення площі
+    String info();  // Метод для виведення інформації
+}
